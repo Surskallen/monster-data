@@ -18460,7 +18460,7 @@
         }
     },
     {
-        "Monster": "Sabretooth (Creature)",
+        "Monster": "Sabretooth",
         "Data": {
             "Physical": "1.1",
             "Death": "1",
