@@ -196,6 +196,20 @@
         }
     },
     {
+        "Monster": "Adlerauge",
+        "Data": {
+            "Physical": "1",
+            "Death": "1",
+            "Holy": "1",
+            "Ice": "1",
+            "Fire": "1",
+            "Energy": "1",
+            "Earth": "1",
+            "Drown": "1",
+            "Health": "45,000"
+        }
+    },
+    {
         "Monster": "Adult Goanna",
         "Data": {
             "Physical": "1",
@@ -207,6 +221,20 @@
             "Earth": "0.75",
             "Drown": "1",
             "Health": "8,300"
+        }
+    },
+    {
+        "Monster": "Adventurer Group",
+        "Data": {
+            "Physical": "1",
+            "Death": "1",
+            "Holy": "1",
+            "Ice": "1",
+            "Fire": "1",
+            "Energy": "1",
+            "Earth": "1",
+            "Drown": "1",
+            "Health": "Unknown."
         }
     },
     {
@@ -434,6 +462,20 @@
         }
     },
     {
+        "Monster": "An Eye",
+        "Data": {
+            "Physical": "1",
+            "Death": "1",
+            "Holy": "1",
+            "Ice": "1",
+            "Fire": "1",
+            "Energy": "1",
+            "Earth": "1",
+            "Drown": "1",
+            "Health": "Unknown."
+        }
+    },
+    {
         "Monster": "An Observer Eye",
         "Data": {
             "Physical": "1",
@@ -464,7 +506,7 @@
     {
         "Monster": "Ancient Lion Knight",
         "Data": {
-            "Physical": "1",
+            "Physical": "0.65",
             "Death": "1.3",
             "Holy": "1",
             "Ice": "0.8",
@@ -1886,7 +1928,21 @@
             "Energy": "1",
             "Earth": "1",
             "Drown": "1",
-            "Health": "16,500"
+            "Health": "20,500"
+        }
+    },
+    {
+        "Monster": "Blight Spitter",
+        "Data": {
+            "Physical": "1",
+            "Death": "1",
+            "Holy": "1",
+            "Ice": "1",
+            "Fire": "1",
+            "Energy": "1",
+            "Earth": "1",
+            "Drown": "1",
+            "Health": "Unknown."
         }
     },
     {
@@ -2016,6 +2072,20 @@
         }
     },
     {
+        "Monster": "Blood Guardian",
+        "Data": {
+            "Physical": "1",
+            "Death": "1",
+            "Holy": "1",
+            "Ice": "1",
+            "Fire": "1",
+            "Energy": "1",
+            "Earth": "1",
+            "Drown": "1",
+            "Health": "Unknown."
+        }
+    },
+    {
         "Monster": "Blood Hand",
         "Data": {
             "Physical": "1",
@@ -2027,6 +2097,20 @@
             "Earth": "0",
             "Drown": "0",
             "Health": "700"
+        }
+    },
+    {
+        "Monster": "Blood Pool",
+        "Data": {
+            "Physical": "1",
+            "Death": "1",
+            "Holy": "1",
+            "Ice": "1",
+            "Fire": "1",
+            "Energy": "1",
+            "Earth": "1",
+            "Drown": "1",
+            "Health": "Unknown."
         }
     },
     {
@@ -2394,6 +2478,34 @@
         }
     },
     {
+        "Monster": "Bone Barrier",
+        "Data": {
+            "Physical": "1",
+            "Death": "1",
+            "Holy": "1",
+            "Ice": "1",
+            "Fire": "1",
+            "Energy": "1",
+            "Earth": "1",
+            "Drown": "1",
+            "Health": "10,000"
+        }
+    },
+    {
+        "Monster": "Bone Bear",
+        "Data": {
+            "Physical": "1",
+            "Death": "1",
+            "Holy": "1",
+            "Ice": "1",
+            "Fire": "1",
+            "Energy": "1",
+            "Earth": "1",
+            "Drown": "1",
+            "Health": "Unknown."
+        }
+    },
+    {
         "Monster": "Bone Capsule",
         "Data": {
             "Physical": "1.1",
@@ -2422,6 +2534,20 @@
         }
     },
     {
+        "Monster": "Bone Overlord",
+        "Data": {
+            "Physical": "1",
+            "Death": "1",
+            "Holy": "1",
+            "Ice": "1",
+            "Fire": "1",
+            "Energy": "1",
+            "Earth": "1",
+            "Drown": "1",
+            "Health": "Unknown."
+        }
+    },
+    {
         "Monster": "Bonebeast",
         "Data": {
             "Physical": "1",
@@ -2447,6 +2573,34 @@
             "Earth": "0",
             "Drown": "1",
             "Health": "260"
+        }
+    },
+    {
+        "Monster": "Bonelord Totem",
+        "Data": {
+            "Physical": "1",
+            "Death": "1",
+            "Holy": "1",
+            "Ice": "1",
+            "Fire": "1",
+            "Energy": "1",
+            "Earth": "1",
+            "Drown": "1",
+            "Health": "Unknown."
+        }
+    },
+    {
+        "Monster": "Bonelord's Phylactery",
+        "Data": {
+            "Physical": "1",
+            "Death": "1",
+            "Holy": "1",
+            "Ice": "1",
+            "Fire": "1",
+            "Energy": "1",
+            "Earth": "1",
+            "Drown": "1",
+            "Health": "Unknown."
         }
     },
     {
@@ -2548,6 +2702,20 @@
         }
     },
     {
+        "Monster": "Bound Ape",
+        "Data": {
+            "Physical": "1",
+            "Death": "1",
+            "Holy": "1",
+            "Ice": "1",
+            "Fire": "1",
+            "Energy": "1",
+            "Earth": "1",
+            "Drown": "1",
+            "Health": "Unknown."
+        }
+    },
+    {
         "Monster": "Bound Astral Power",
         "Data": {
             "Physical": "0.55",
@@ -2557,6 +2725,34 @@
             "Fire": "0.6",
             "Energy": "0.7",
             "Earth": "0.6",
+            "Drown": "1",
+            "Health": "Unknown."
+        }
+    },
+    {
+        "Monster": "Bound Cave Spider",
+        "Data": {
+            "Physical": "1",
+            "Death": "1",
+            "Holy": "1",
+            "Ice": "1",
+            "Fire": "1",
+            "Energy": "1",
+            "Earth": "1",
+            "Drown": "1",
+            "Health": "Unknown."
+        }
+    },
+    {
+        "Monster": "Bound Iks Aucar",
+        "Data": {
+            "Physical": "1",
+            "Death": "1",
+            "Holy": "1",
+            "Ice": "1",
+            "Fire": "1",
+            "Energy": "1",
+            "Earth": "1",
             "Drown": "1",
             "Health": "Unknown."
         }
@@ -2614,7 +2810,7 @@
             "Energy": "-3",
             "Earth": "1",
             "Drown": "1",
-            "Health": "Unknown."
+            "Health": "230,000"
         }
     },
     {
@@ -2727,6 +2923,20 @@
             "Earth": "1.1",
             "Drown": "1",
             "Health": "275"
+        }
+    },
+    {
+        "Monster": "Bright Crystal",
+        "Data": {
+            "Physical": "1",
+            "Death": "1",
+            "Holy": "1",
+            "Ice": "1",
+            "Fire": "1",
+            "Energy": "1",
+            "Earth": "1",
+            "Drown": "1",
+            "Health": "Unknown."
         }
     },
     {
@@ -2852,7 +3062,7 @@
             "Energy": "1",
             "Earth": "1",
             "Drown": "1",
-            "Health": "Unknown."
+            "Health": "290,000"
         }
     },
     {
@@ -3706,7 +3916,7 @@
             "Energy": "1.1",
             "Earth": "0.8",
             "Drown": "1",
-            "Health": "20,000"
+            "Health": "130,000"
         }
     },
     {
@@ -3777,6 +3987,20 @@
             "Earth": "1.05",
             "Drown": "1",
             "Health": "2,350"
+        }
+    },
+    {
+        "Monster": "Clavius",
+        "Data": {
+            "Physical": "1.25",
+            "Death": "1",
+            "Holy": "1",
+            "Ice": "0.75",
+            "Fire": "1.06",
+            "Energy": "0.85",
+            "Earth": "1.12",
+            "Drown": "1",
+            "Health": "40,000"
         }
     },
     {
@@ -4088,6 +4312,34 @@
         }
     },
     {
+        "Monster": "Corrupted Ghost",
+        "Data": {
+            "Physical": "0.95",
+            "Death": "0.9",
+            "Holy": "1",
+            "Ice": "1.05",
+            "Fire": "1.1",
+            "Energy": "1",
+            "Earth": "0.95",
+            "Drown": "0",
+            "Health": "30"
+        }
+    },
+    {
+        "Monster": "Corrupted Skeleton",
+        "Data": {
+            "Physical": "1",
+            "Death": "0.9",
+            "Holy": "1.25",
+            "Ice": "1.1",
+            "Fire": "1.1",
+            "Energy": "1",
+            "Earth": "1",
+            "Drown": "0",
+            "Health": "45"
+        }
+    },
+    {
         "Monster": "Corrupted Soul",
         "Data": {
             "Physical": "1",
@@ -4224,7 +4476,7 @@
             "Energy": "0.95",
             "Earth": "1",
             "Drown": "1",
-            "Health": "Unknown."
+            "Health": "300,000"
         }
     },
     {
@@ -4253,6 +4505,20 @@
             "Earth": "1.2",
             "Drown": "1",
             "Health": "27,000"
+        }
+    },
+    {
+        "Monster": "Court Warlock",
+        "Data": {
+            "Physical": "1",
+            "Death": "1",
+            "Holy": "1",
+            "Ice": "1",
+            "Fire": "1",
+            "Energy": "1",
+            "Earth": "1",
+            "Drown": "1",
+            "Health": "Unknown."
         }
     },
     {
@@ -4438,6 +4704,20 @@
         }
     },
     {
+        "Monster": "Creepy Crawler",
+        "Data": {
+            "Physical": "0.94",
+            "Death": "0.97",
+            "Holy": "1.06",
+            "Ice": "0.94",
+            "Fire": "1.12",
+            "Energy": "0.88",
+            "Earth": "1.12",
+            "Drown": "1",
+            "Health": "27,000"
+        }
+    },
+    {
         "Monster": "Crimson Frog",
         "Data": {
             "Physical": "1",
@@ -4480,6 +4760,20 @@
         }
     },
     {
+        "Monster": "Crusader Guardian",
+        "Data": {
+            "Physical": "1",
+            "Death": "1",
+            "Holy": "1",
+            "Ice": "1",
+            "Fire": "1",
+            "Energy": "1",
+            "Earth": "1",
+            "Drown": "1",
+            "Health": "3,400"
+        }
+    },
+    {
         "Monster": "Crusader",
         "Data": {
             "Physical": "0.9",
@@ -4508,6 +4802,20 @@
         }
     },
     {
+        "Monster": "Crypt Construct",
+        "Data": {
+            "Physical": "1.06",
+            "Death": "0.92",
+            "Holy": "0.92",
+            "Ice": "0.88",
+            "Fire": "1.06",
+            "Energy": "0.82",
+            "Earth": "1.09",
+            "Drown": "1",
+            "Health": "25,000"
+        }
+    },
+    {
         "Monster": "Crypt Defiler",
         "Data": {
             "Physical": "1.1",
@@ -4519,6 +4827,34 @@
             "Earth": "1",
             "Drown": "1",
             "Health": "185"
+        }
+    },
+    {
+        "Monster": "Crypt Fiend",
+        "Data": {
+            "Physical": "1.06",
+            "Death": "1",
+            "Holy": "1.03",
+            "Ice": "0.91",
+            "Fire": "1.09",
+            "Energy": "0.85",
+            "Earth": "1.12",
+            "Drown": "1",
+            "Health": "30,000"
+        }
+    },
+    {
+        "Monster": "Crypt Mage",
+        "Data": {
+            "Physical": "1",
+            "Death": "0.9",
+            "Holy": "0.9",
+            "Ice": "0.9",
+            "Fire": "0.9",
+            "Energy": "0.9",
+            "Earth": "0.9",
+            "Drown": "1",
+            "Health": "14,000"
         }
     },
     {
@@ -4785,6 +5121,20 @@
             "Earth": "1.1",
             "Drown": "1",
             "Health": "260"
+        }
+    },
+    {
+        "Monster": "Cyclursus",
+        "Data": {
+            "Physical": "1",
+            "Death": "0.95",
+            "Holy": "0.95",
+            "Ice": "0.95",
+            "Fire": "0.95",
+            "Energy": "0.95",
+            "Earth": "0.95",
+            "Drown": "1",
+            "Health": "13,500"
         }
     },
     {
@@ -5992,6 +6342,20 @@
         }
     },
     {
+        "Monster": "Digestive Ooze",
+        "Data": {
+            "Physical": "1",
+            "Death": "1",
+            "Holy": "1",
+            "Ice": "1",
+            "Fire": "1",
+            "Energy": "1",
+            "Earth": "1",
+            "Drown": "1",
+            "Health": "Unknown."
+        }
+    },
+    {
         "Monster": "Dipthrah",
         "Data": {
             "Physical": "0",
@@ -6664,6 +7028,20 @@
         }
     },
     {
+        "Monster": "Drowned Deck Hand",
+        "Data": {
+            "Physical": "1",
+            "Death": "1",
+            "Holy": "1",
+            "Ice": "1",
+            "Fire": "1",
+            "Energy": "1",
+            "Earth": "1",
+            "Drown": "1",
+            "Health": "2,000"
+        }
+    },
+    {
         "Monster": "Druid Familiar",
         "Data": {
             "Physical": "1",
@@ -7154,6 +7532,20 @@
         }
     },
     {
+        "Monster": "Eldritch Dragon Lord",
+        "Data": {
+            "Physical": "1",
+            "Death": "1",
+            "Holy": "1",
+            "Ice": "1",
+            "Fire": "1",
+            "Energy": "1",
+            "Earth": "1",
+            "Drown": "1",
+            "Health": "Unknown."
+        }
+    },
+    {
         "Monster": "Elephant",
         "Data": {
             "Physical": "0.75",
@@ -7263,6 +7655,34 @@
             "Earth": "0.8",
             "Drown": "1",
             "Health": "245"
+        }
+    },
+    {
+        "Monster": "Elyrax's Soulcage",
+        "Data": {
+            "Physical": "1",
+            "Death": "1",
+            "Holy": "1",
+            "Ice": "1",
+            "Fire": "1",
+            "Energy": "1",
+            "Earth": "1",
+            "Drown": "1",
+            "Health": "Unknown."
+        }
+    },
+    {
+        "Monster": "Elyrax's Spirit",
+        "Data": {
+            "Physical": "1",
+            "Death": "1",
+            "Holy": "1",
+            "Ice": "1",
+            "Fire": "1",
+            "Energy": "1",
+            "Earth": "1",
+            "Drown": "1",
+            "Health": "Unknown."
         }
     },
     {
@@ -7448,6 +7868,20 @@
         }
     },
     {
+        "Monster": "Enpa Yolo",
+        "Data": {
+            "Physical": "1",
+            "Death": "1",
+            "Holy": "1",
+            "Ice": "1",
+            "Fire": "1",
+            "Energy": "1",
+            "Earth": "1",
+            "Drown": "1",
+            "Health": "65"
+        }
+    },
+    {
         "Monster": "Enraged Bookworm",
         "Data": {
             "Physical": "1",
@@ -7588,6 +8022,20 @@
         }
     },
     {
+        "Monster": "Enthralled Dragon",
+        "Data": {
+            "Physical": "1",
+            "Death": "1",
+            "Holy": "1",
+            "Ice": "1",
+            "Fire": "1",
+            "Energy": "1",
+            "Earth": "1",
+            "Drown": "1",
+            "Health": "Unknown."
+        }
+    },
+    {
         "Monster": "Enusat the Onyx Wing",
         "Data": {
             "Physical": "1",
@@ -7627,6 +8075,20 @@
             "Earth": "1",
             "Drown": "1",
             "Health": "8,500"
+        }
+    },
+    {
+        "Monster": "Eruption",
+        "Data": {
+            "Physical": "1",
+            "Death": "1",
+            "Holy": "1",
+            "Ice": "1",
+            "Fire": "1",
+            "Energy": "1",
+            "Earth": "1",
+            "Drown": "1",
+            "Health": "Unknown."
         }
     },
     {
@@ -7952,6 +8414,20 @@
         }
     },
     {
+        "Monster": "Fatal Bug",
+        "Data": {
+            "Physical": "1",
+            "Death": "1",
+            "Holy": "1",
+            "Ice": "1",
+            "Fire": "1",
+            "Energy": "1",
+            "Earth": "1",
+            "Drown": "1",
+            "Health": "Unknown."
+        }
+    },
+    {
         "Monster": "Fatality",
         "Data": {
             "Physical": "1",
@@ -8274,6 +8750,20 @@
         }
     },
     {
+        "Monster": "Fiona Firstdream",
+        "Data": {
+            "Physical": "1",
+            "Death": "1",
+            "Holy": "1",
+            "Ice": "1",
+            "Fire": "1",
+            "Energy": "1",
+            "Earth": "1",
+            "Drown": "1",
+            "Health": "Unknown."
+        }
+    },
+    {
         "Monster": "Fire Devil",
         "Data": {
             "Physical": "0.9",
@@ -8383,6 +8873,20 @@
             "Earth": "1",
             "Drown": "1",
             "Health": "800"
+        }
+    },
+    {
+        "Monster": "Flame Totem",
+        "Data": {
+            "Physical": "1",
+            "Death": "1",
+            "Holy": "1",
+            "Ice": "1",
+            "Fire": "1",
+            "Energy": "1",
+            "Earth": "1",
+            "Drown": "1",
+            "Health": "Unknown."
         }
     },
     {
@@ -8634,7 +9138,7 @@
             "Energy": "1.2",
             "Earth": "0",
             "Drown": "1",
-            "Health": "105,000?"
+            "Health": "105,000"
         }
     },
     {
@@ -10738,6 +11242,20 @@
         }
     },
     {
+        "Monster": "Grendel Greenlunch",
+        "Data": {
+            "Physical": "1",
+            "Death": "1",
+            "Holy": "1",
+            "Ice": "1",
+            "Fire": "1",
+            "Energy": "1",
+            "Earth": "1",
+            "Drown": "1",
+            "Health": "Unknown."
+        }
+    },
+    {
         "Monster": "Grim Reaper",
         "Data": {
             "Physical": "0.75",
@@ -10853,11 +11371,11 @@
         "Monster": "Grove Guardian",
         "Data": {
             "Physical": "1",
-            "Death": "1",
+            "Death": "0.85",
             "Holy": "1",
-            "Ice": "1",
-            "Fire": "1",
-            "Energy": "1",
+            "Ice": "0.9",
+            "Fire": "0.9",
+            "Energy": "0.65",
             "Earth": "0",
             "Drown": "1",
             "Health": "20,000"
@@ -11130,6 +11648,20 @@
         }
     },
     {
+        "Monster": "Haunted Hunter",
+        "Data": {
+            "Physical": "1.03",
+            "Death": "1.12",
+            "Holy": "0.94",
+            "Ice": "1.09",
+            "Fire": "0.91",
+            "Energy": "1.06",
+            "Earth": "0.85",
+            "Drown": "1",
+            "Health": "23,000"
+        }
+    },
+    {
         "Monster": "Haunted Treeling",
         "Data": {
             "Physical": "1",
@@ -11163,7 +11695,7 @@
             "Physical": "1.05",
             "Death": "1.05",
             "Holy": "1",
-            "Ice": "1.1",
+            "Ice": "1",
             "Fire": "1.1",
             "Energy": "0.9",
             "Earth": "0.85",
@@ -11844,6 +12376,34 @@
         }
     },
     {
+        "Monster": "Ice Blockade",
+        "Data": {
+            "Physical": "1",
+            "Death": "1",
+            "Holy": "1",
+            "Ice": "1",
+            "Fire": "1",
+            "Energy": "1",
+            "Earth": "1",
+            "Drown": "1",
+            "Health": "Unknown."
+        }
+    },
+    {
+        "Monster": "Ice Crawler",
+        "Data": {
+            "Physical": "1",
+            "Death": "1",
+            "Holy": "1",
+            "Ice": "1",
+            "Fire": "1",
+            "Energy": "1",
+            "Earth": "1",
+            "Drown": "1",
+            "Health": "Unknown."
+        }
+    },
+    {
         "Monster": "Ice Dragon",
         "Data": {
             "Physical": "1.05",
@@ -11869,6 +12429,20 @@
             "Earth": "1",
             "Drown": "1",
             "Health": "385"
+        }
+    },
+    {
+        "Monster": "Ice Horror",
+        "Data": {
+            "Physical": "1",
+            "Death": "1",
+            "Holy": "1",
+            "Ice": "1",
+            "Fire": "1",
+            "Energy": "1",
+            "Earth": "1",
+            "Drown": "1",
+            "Health": "Unknown."
         }
     },
     {
@@ -12040,6 +12614,20 @@
         }
     },
     {
+        "Monster": "Imp Minion",
+        "Data": {
+            "Physical": "1",
+            "Death": "1",
+            "Holy": "1",
+            "Ice": "1",
+            "Fire": "1",
+            "Energy": "1",
+            "Earth": "1",
+            "Drown": "1",
+            "Health": "Unknown."
+        }
+    },
+    {
         "Monster": "Imp Warden",
         "Data": {
             "Physical": "1",
@@ -12051,6 +12639,20 @@
             "Earth": "1.2",
             "Drown": "1",
             "Health": "10,500"
+        }
+    },
+    {
+        "Monster": "Imperial",
+        "Data": {
+            "Physical": "1",
+            "Death": "1",
+            "Holy": "1",
+            "Ice": "1",
+            "Fire": "1",
+            "Energy": "1",
+            "Earth": "1",
+            "Drown": "1",
+            "Health": "100"
         }
     },
     {
@@ -13786,7 +14388,7 @@
             "Energy": "0.95",
             "Earth": "-2.6",
             "Drown": "1",
-            "Health": "Unknown."
+            "Health": "300,000"
         }
     },
     {
@@ -13961,11 +14563,11 @@
         "Monster": "Lucifuga Aranea",
         "Data": {
             "Physical": "1",
-            "Death": "1",
+            "Death": "0.8",
             "Holy": "1",
-            "Ice": "1",
-            "Fire": "1",
-            "Energy": "1",
+            "Ice": "0.8",
+            "Fire": "0.25",
+            "Energy": "0",
             "Earth": "1",
             "Drown": "1",
             "Health": "12,000"
@@ -14696,7 +15298,7 @@
             "Energy": "0.95",
             "Earth": "1",
             "Drown": "1",
-            "Health": "Unknown."
+            "Health": "350,000"
         }
     },
     {
@@ -15358,6 +15960,20 @@
         }
     },
     {
+        "Monster": "Michael the Stalwart",
+        "Data": {
+            "Physical": "1",
+            "Death": "1",
+            "Holy": "1",
+            "Ice": "1",
+            "Fire": "1",
+            "Energy": "1",
+            "Earth": "1",
+            "Drown": "1",
+            "Health": "60,000"
+        }
+    },
+    {
         "Monster": "Midnight Asura",
         "Data": {
             "Physical": "1",
@@ -15704,7 +16320,7 @@
             "Energy": "1",
             "Earth": "1",
             "Drown": "1",
-            "Health": "Unknown."
+            "Health": "6,500"
         }
     },
     {
@@ -16004,11 +16620,11 @@
     {
         "Monster": "Monk's Apparition",
         "Data": {
-            "Physical": "1",
-            "Death": "1",
-            "Holy": "1",
+            "Physical": "0.8",
+            "Death": "1.2",
+            "Holy": "0.6",
             "Ice": "1",
-            "Fire": "1",
+            "Fire": "1.1",
             "Energy": "1",
             "Earth": "1",
             "Drown": "1",
@@ -16242,6 +16858,20 @@
     {
         "Monster": "Muglex Clan Assassin",
         "Data": {
+            "Physical": "1.1",
+            "Death": "1.1",
+            "Holy": "0.8",
+            "Ice": "1",
+            "Fire": "0.95",
+            "Energy": "1.05",
+            "Earth": "1.05",
+            "Drown": "1",
+            "Health": "45"
+        }
+    },
+    {
+        "Monster": "Muglex Clan Chief",
+        "Data": {
             "Physical": "1",
             "Death": "1",
             "Holy": "1",
@@ -16250,7 +16880,7 @@
             "Energy": "1",
             "Earth": "1",
             "Drown": "1",
-            "Health": "75"
+            "Health": "100"
         }
     },
     {
@@ -16258,13 +16888,13 @@
         "Data": {
             "Physical": "1",
             "Death": "1.1",
-            "Holy": "1",
+            "Holy": "0.8",
             "Ice": "1",
             "Fire": "1",
             "Energy": "1",
-            "Earth": "1",
+            "Earth": "1.1",
             "Drown": "1",
-            "Health": "50"
+            "Health": "30"
         }
     },
     {
@@ -16534,6 +17164,34 @@
         }
     },
     {
+        "Monster": "Myzareth's Soulcage",
+        "Data": {
+            "Physical": "1",
+            "Death": "1",
+            "Holy": "1",
+            "Ice": "1",
+            "Fire": "1",
+            "Energy": "1",
+            "Earth": "1",
+            "Drown": "1",
+            "Health": "Unknown."
+        }
+    },
+    {
+        "Monster": "Myzareth's Spirit",
+        "Data": {
+            "Physical": "1",
+            "Death": "1",
+            "Holy": "1",
+            "Ice": "1",
+            "Fire": "1",
+            "Energy": "1",
+            "Earth": "1",
+            "Drown": "1",
+            "Health": "Unknown."
+        }
+    },
+    {
         "Monster": "Naga Archer",
         "Data": {
             "Physical": "1.1",
@@ -16699,6 +17357,34 @@
             "Earth": "0.9",
             "Drown": "1",
             "Health": "2,900"
+        }
+    },
+    {
+        "Monster": "Nigel Neverguess",
+        "Data": {
+            "Physical": "1",
+            "Death": "1",
+            "Holy": "1",
+            "Ice": "1",
+            "Fire": "1",
+            "Energy": "1",
+            "Earth": "1",
+            "Drown": "1",
+            "Health": "Unknown."
+        }
+    },
+    {
+        "Monster": "Night Harpy",
+        "Data": {
+            "Physical": "1",
+            "Death": "1.09",
+            "Holy": "1.09",
+            "Ice": "1.12",
+            "Fire": "0.7",
+            "Energy": "1",
+            "Earth": "0.6",
+            "Drown": "1",
+            "Health": "14,000"
         }
     },
     {
@@ -16898,6 +17584,20 @@
         }
     },
     {
+        "Monster": "Norcferatu Abomination",
+        "Data": {
+            "Physical": "1",
+            "Death": "1",
+            "Holy": "1",
+            "Ice": "1",
+            "Fire": "1",
+            "Energy": "1",
+            "Earth": "1",
+            "Drown": "1",
+            "Health": "Unknown."
+        }
+    },
+    {
         "Monster": "Norcferatu Heartless",
         "Data": {
             "Physical": "0.9",
@@ -16909,6 +17609,34 @@
             "Earth": "1.1",
             "Drown": "1",
             "Health": "5,700"
+        }
+    },
+    {
+        "Monster": "Norcferatu Minion",
+        "Data": {
+            "Physical": "1",
+            "Death": "1",
+            "Holy": "1",
+            "Ice": "1",
+            "Fire": "1",
+            "Energy": "1",
+            "Earth": "1",
+            "Drown": "1",
+            "Health": "Unknown."
+        }
+    },
+    {
+        "Monster": "Norcferatu Monstrosity",
+        "Data": {
+            "Physical": "1",
+            "Death": "1",
+            "Holy": "1",
+            "Ice": "1",
+            "Fire": "1",
+            "Energy": "1",
+            "Earth": "1",
+            "Drown": "1",
+            "Health": "Unknown."
         }
     },
     {
@@ -17570,6 +18298,20 @@
         }
     },
     {
+        "Monster": "Overcharged Demon",
+        "Data": {
+            "Physical": "1",
+            "Death": "1",
+            "Holy": "1",
+            "Ice": "1",
+            "Fire": "1",
+            "Energy": "1",
+            "Earth": "1",
+            "Drown": "1",
+            "Health": "Unknown."
+        }
+    },
+    {
         "Monster": "Overcharged Disruption",
         "Data": {
             "Physical": "1",
@@ -17609,6 +18351,20 @@
             "Earth": "1",
             "Drown": "1",
             "Health": "8,000"
+        }
+    },
+    {
+        "Monster": "Overseer Osverger",
+        "Data": {
+            "Physical": "1.06",
+            "Death": "1",
+            "Holy": "1",
+            "Ice": "0.75",
+            "Fire": "1.06",
+            "Energy": "0.85",
+            "Earth": "1.06",
+            "Drown": "1",
+            "Health": "Unknown."
         }
     },
     {
@@ -17808,6 +18564,20 @@
         }
     },
     {
+        "Monster": "Percy Peacetinker",
+        "Data": {
+            "Physical": "1",
+            "Death": "1",
+            "Holy": "1",
+            "Ice": "1",
+            "Fire": "1",
+            "Energy": "1",
+            "Earth": "1",
+            "Drown": "1",
+            "Health": "Unknown."
+        }
+    },
+    {
         "Monster": "Phantasm (Weak)",
         "Data": {
             "Physical": "0",
@@ -17860,7 +18630,7 @@
             "Energy": "0",
             "Earth": "0",
             "Drown": "1",
-            "Health": "90,000"
+            "Health": "150,000"
         }
     },
     {
@@ -18746,6 +19516,20 @@
         }
     },
     {
+        "Monster": "Pulsating Lava",
+        "Data": {
+            "Physical": "1",
+            "Death": "1",
+            "Holy": "1",
+            "Ice": "1",
+            "Fire": "1",
+            "Energy": "1",
+            "Earth": "1",
+            "Drown": "1",
+            "Health": "Unknown."
+        }
+    },
+    {
         "Monster": "Pupated Rootthing",
         "Data": {
             "Physical": "1",
@@ -19157,8 +19941,8 @@
             "Physical": "1",
             "Death": "1",
             "Holy": "1",
-            "Ice": "1",
-            "Fire": "1",
+            "Ice": "1.1",
+            "Fire": "1.1",
             "Energy": "1",
             "Earth": "1",
             "Drown": "1",
@@ -19289,6 +20073,48 @@
             "Earth": "0.8",
             "Drown": "1",
             "Health": "20"
+        }
+    },
+    {
+        "Monster": "Raubritter Chastener",
+        "Data": {
+            "Physical": "1.2",
+            "Death": "1",
+            "Holy": "0.85",
+            "Ice": "0.75",
+            "Fire": "1.06",
+            "Energy": "0.85",
+            "Earth": "1.12",
+            "Drown": "1",
+            "Health": "10,000"
+        }
+    },
+    {
+        "Monster": "Raubritter Marksman",
+        "Data": {
+            "Physical": "1.16",
+            "Death": "1",
+            "Holy": "0.85",
+            "Ice": "0.85",
+            "Fire": "1.12",
+            "Energy": "0.88",
+            "Earth": "1.12",
+            "Drown": "1",
+            "Health": "10,500"
+        }
+    },
+    {
+        "Monster": "Raubritter Skirmisher",
+        "Data": {
+            "Physical": "1.12",
+            "Death": "1",
+            "Holy": "0.85",
+            "Ice": "0.8",
+            "Fire": "1.15",
+            "Energy": "0.91",
+            "Earth": "1.06",
+            "Drown": "1",
+            "Health": "11,000"
         }
     },
     {
@@ -19908,6 +20734,20 @@
         }
     },
     {
+        "Monster": "Roaming Dread",
+        "Data": {
+            "Physical": "1",
+            "Death": "1.18",
+            "Holy": "1",
+            "Ice": "1.09",
+            "Fire": "1.09",
+            "Energy": "1.09",
+            "Earth": "1.09",
+            "Drown": "1",
+            "Health": "14,500"
+        }
+    },
+    {
         "Monster": "Roaring Lion",
         "Data": {
             "Physical": "1",
@@ -20493,6 +21333,34 @@
             "Earth": "0",
             "Drown": "1",
             "Health": "320"
+        }
+    },
+    {
+        "Monster": "Scarith's Soulcage",
+        "Data": {
+            "Physical": "1",
+            "Death": "1",
+            "Holy": "1",
+            "Ice": "1",
+            "Fire": "1",
+            "Energy": "1",
+            "Earth": "1",
+            "Drown": "1",
+            "Health": "Unknown."
+        }
+    },
+    {
+        "Monster": "Scarith's Spirit",
+        "Data": {
+            "Physical": "1",
+            "Death": "1",
+            "Holy": "1",
+            "Ice": "1",
+            "Fire": "1",
+            "Energy": "1",
+            "Earth": "1",
+            "Drown": "1",
+            "Health": "Unknown."
         }
     },
     {
@@ -21178,7 +22046,7 @@
             "Energy": "1",
             "Earth": "0.3",
             "Drown": "1",
-            "Health": "Unknown."
+            "Health": "150,000"
         }
     },
     {
@@ -21192,7 +22060,7 @@
             "Energy": "1",
             "Earth": "1",
             "Drown": "1",
-            "Health": "Unknown."
+            "Health": "22,000"
         }
     },
     {
@@ -21206,7 +22074,7 @@
             "Energy": "1",
             "Earth": "1",
             "Drown": "1",
-            "Health": "Unknown."
+            "Health": "18,000"
         }
     },
     {
@@ -21920,7 +22788,7 @@
             "Energy": "1.1",
             "Earth": "0",
             "Drown": "1",
-            "Health": "Unknown."
+            "Health": "1,850"
         }
     },
     {
@@ -22411,6 +23279,20 @@
             "Earth": "1.1",
             "Drown": "1",
             "Health": "2,500"
+        }
+    },
+    {
+        "Monster": "Stag",
+        "Data": {
+            "Physical": "1",
+            "Death": "1",
+            "Holy": "1",
+            "Ice": "1",
+            "Fire": "1",
+            "Energy": "1",
+            "Earth": "1",
+            "Drown": "1",
+            "Health": "50"
         }
     },
     {
@@ -23086,6 +23968,20 @@
         }
     },
     {
+        "Monster": "Tame Terror Bird",
+        "Data": {
+            "Physical": "1",
+            "Death": "1.05",
+            "Holy": "1",
+            "Ice": "0.8",
+            "Fire": "1.1",
+            "Energy": "0.8",
+            "Earth": "1.1",
+            "Drown": "1",
+            "Health": "300"
+        }
+    },
+    {
         "Monster": "Tamru the Black",
         "Data": {
             "Physical": "1",
@@ -23632,6 +24528,20 @@
         }
     },
     {
+        "Monster": "The Corruptor",
+        "Data": {
+            "Physical": "1",
+            "Death": "1",
+            "Holy": "1",
+            "Ice": "1",
+            "Fire": "1",
+            "Energy": "1",
+            "Earth": "1",
+            "Drown": "0",
+            "Health": "100"
+        }
+    },
+    {
         "Monster": "The Count of the Core",
         "Data": {
             "Physical": "1",
@@ -23838,7 +24748,7 @@
             "Energy": "1.1",
             "Earth": "0.8",
             "Drown": "1",
-            "Health": "Unknown."
+            "Health": "290,000"
         }
     },
     {
@@ -23937,6 +24847,20 @@
             "Earth": "0.2",
             "Drown": "1",
             "Health": "55"
+        }
+    },
+    {
+        "Monster": "The Gravedigger",
+        "Data": {
+            "Physical": "1",
+            "Death": "1",
+            "Holy": "1",
+            "Ice": "1",
+            "Fire": "1",
+            "Energy": "1",
+            "Earth": "1",
+            "Drown": "1",
+            "Health": "Unknown."
         }
     },
     {
@@ -25196,7 +26120,7 @@
             "Energy": "1",
             "Earth": "1",
             "Drown": "1",
-            "Health": "Unknown."
+            "Health": "9,000"
         }
     },
     {
@@ -25392,7 +26316,7 @@
             "Energy": "1",
             "Earth": "1",
             "Drown": "1",
-            "Health": "15,500"
+            "Health": "20,500"
         }
     },
     {
@@ -25490,7 +26414,7 @@
             "Energy": "0.95",
             "Earth": "0.9",
             "Drown": "1",
-            "Health": "Unknown."
+            "Health": "10,000"
         }
     },
     {
@@ -26070,7 +26994,7 @@
     {
         "Monster": "Usurper Knight",
         "Data": {
-            "Physical": "0.65",
+            "Physical": "0.85",
             "Death": "1.15",
             "Holy": "0.85",
             "Ice": "0.8",
@@ -26121,6 +27045,20 @@
             "Earth": "1",
             "Drown": "1",
             "Health": "190"
+        }
+    },
+    {
+        "Monster": "Vampire Bat",
+        "Data": {
+            "Physical": "1",
+            "Death": "1",
+            "Holy": "1",
+            "Ice": "1",
+            "Fire": "1",
+            "Energy": "1",
+            "Earth": "1",
+            "Drown": "1",
+            "Health": "--"
         }
     },
     {
@@ -26191,6 +27129,48 @@
             "Earth": "1",
             "Drown": "1",
             "Health": "3,500"
+        }
+    },
+    {
+        "Monster": "Vampiric Essence",
+        "Data": {
+            "Physical": "1",
+            "Death": "1",
+            "Holy": "1",
+            "Ice": "1",
+            "Fire": "1",
+            "Energy": "1",
+            "Earth": "1",
+            "Drown": "1",
+            "Health": "20,000"
+        }
+    },
+    {
+        "Monster": "Vampiric Flesh",
+        "Data": {
+            "Physical": "1",
+            "Death": "1",
+            "Holy": "1",
+            "Ice": "1",
+            "Fire": "1",
+            "Energy": "1",
+            "Earth": "1",
+            "Drown": "1",
+            "Health": "Unknown."
+        }
+    },
+    {
+        "Monster": "Vampiric Heart",
+        "Data": {
+            "Physical": "1",
+            "Death": "1",
+            "Holy": "1",
+            "Ice": "1",
+            "Fire": "1",
+            "Energy": "1",
+            "Earth": "1",
+            "Drown": "1",
+            "Health": "Unknown."
         }
     },
     {
@@ -26572,6 +27552,20 @@
         }
     },
     {
+        "Monster": "Walking Dread",
+        "Data": {
+            "Physical": "1.09",
+            "Death": "1.03",
+            "Holy": "1",
+            "Ice": "1.12",
+            "Fire": "0.88",
+            "Energy": "1.09",
+            "Earth": "0.91",
+            "Drown": "1",
+            "Health": "25,000"
+        }
+    },
+    {
         "Monster": "Walking Pillar",
         "Data": {
             "Physical": "1.1",
@@ -26609,7 +27603,7 @@
             "Fire": "0",
             "Energy": "0",
             "Earth": "0",
-            "Drown": "1",
+            "Drown": "0",
             "Health": "Unknown."
         }
     },
@@ -27748,6 +28742,20 @@
         }
     },
     {
+        "Monster": "Yorik Youngbook",
+        "Data": {
+            "Physical": "1",
+            "Death": "1",
+            "Holy": "1",
+            "Ice": "1",
+            "Fire": "1",
+            "Energy": "1",
+            "Earth": "1",
+            "Drown": "1",
+            "Health": "Unknown."
+        }
+    },
+    {
         "Monster": "Young Goanna",
         "Data": {
             "Physical": "1",
@@ -27871,6 +28879,34 @@
             "Earth": "0",
             "Drown": "1",
             "Health": "1,400"
+        }
+    },
+    {
+        "Monster": "Zharvorin's Soulcage",
+        "Data": {
+            "Physical": "1",
+            "Death": "1",
+            "Holy": "1",
+            "Ice": "1",
+            "Fire": "1",
+            "Energy": "1",
+            "Earth": "1",
+            "Drown": "1",
+            "Health": "Unknown."
+        }
+    },
+    {
+        "Monster": "Zharvorin's Spirit",
+        "Data": {
+            "Physical": "1",
+            "Death": "1",
+            "Holy": "1",
+            "Ice": "1",
+            "Fire": "1",
+            "Energy": "1",
+            "Earth": "1",
+            "Drown": "1",
+            "Health": "Unknown."
         }
     },
     {
